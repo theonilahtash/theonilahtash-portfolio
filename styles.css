@@ -1,0 +1,21 @@
+h1 {
+  padding: 10px;
+  color: red;
+  text-align: center;
+  font-size: 4em;
+}
+body {
+  background-color: cyan;
+  background-size: cover;
+  color: black;
+  font-size: 1.6em;
+}
+img {
+  float: center;
+  width: auto;
+  height: auto;
+}
+h2 {
+  font-size: 2em;
+  color: blue;
+}
