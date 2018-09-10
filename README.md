@@ -11,3 +11,8 @@
 #### The people who are going to use this must have a connectivity
 #### They should either have view it over their phones or other machines i.e laptops
 #### They should view it over my link
+#### https://github.com/theonilahtash/theonilahtash-portfolio.git
+## License
+#### Click here to view the license
+### https://choosealicense.com/licenses/mit/
+
